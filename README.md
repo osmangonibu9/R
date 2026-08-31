@@ -1,36 +1,69 @@
-![Programmer](https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-1/499596475_1838792860031122_8129297710241815438_n.jpg?stp=c256.0.1536.1536a_dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEd4ovB0OE7gFCJJ3wx0LuIthgeHc3UfBa2GB4dzdR8FusaNZvoO03xCo4O3qnrMCoBBybAxuv1ZdYvYMb7i2YB&_nc_ohc=lTqKjtI3G1IQ7kNvwFsZqO-&_nc_oc=AdkwdBb4rCy2zbzhNb7TXmFTh70Oe9yKk99zVLGKenRlz6-en3zLJet-RJwHV1Rk8cM&_nc_zt=24&_nc_ht=scontent.fdac152-1.fna&_nc_gid=jbgqSBvPSsjHgJ6zTgWtlg&oh=00_AfU_nLb3Dg0mOwFi-lRGaGv80XZu36AOkY6cc_-uZQABYw&oe=68A53EAC)
-### Hi there 👋, I'm Md. Osman Goni
-#### Programmer
+# R Programming
 
-GIS & Remote Sensing researcher specializing in coastal studies, disaster management, and data science. Skilled in R, Python, QGIS, ArcGIS, and machine learning. LULC–LST modeling and climate risk assessment.
+A collection of R programming exercises, statistical analysis, and regression-based projects developed for learning and practical data analysis.
 
-Skills: R/Pyththon/QGIS/ArcGIS/GEE/SQL
+## 📌 Contents
 
-- 🔭 I’m currently working on R programing trainer. 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on gitHub 
-- 🤔 I’m looking for help with advancing geospatial analysis using R and Python 
-- 💬 Ask me about GIS 
-- 📫 How to reach me: gmail 
-- 😄 Pronouns:  he/him 
-- ⚡ Fun fact: I can analyze climate and satellite data faster than I can brew a cup of tea. ☕📊 
+This repository contains R scripts and R Markdown files covering the following topics:
 
+### 1. Basic Programming Concepts
+**File:** `Class 03 - Basic Programming Concepts.R`
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/osmangonibu9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/osman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/osmangoni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/)  
+Introduction to fundamental R programming concepts, including:
+- Variables and data types
+- Operators
+- Conditional statements
+- Loops
+- Functions
+- Basic data manipulation
+- Fundamental R syntax
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 2. Correlation and Regression
+**File:** `Correlation and Regression.Rmd`
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=osmangonibu9)](https://github.com/ryo-ma/github-profile-trophy)
+This section focuses on understanding relationships between variables and building regression models.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmangonibu9)](https://github.com/anuraghazra/github-readme-stats)
+Topics include:
+- Correlation analysis
+- Pearson correlation
+- Simple linear regression
+- Regression coefficients
+- Model interpretation
+- Statistical significance
+- Visualization of relationships between variables
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=osmangonibu9&show_icons=true&count_private=true)  
+### 3. Logistic Regression
+**File:** `logistic Regression.R`
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/osmangonibu9/contributions?format=svg&private=true)  
+Introduction to logistic regression for analyzing binary outcome variables.
 
-![GitHub metrics](https://metrics.lecoq.io/osmangonibu9)  
+Topics include:
+- Binary classification
+- Logistic regression model
+- Probability estimation
+- Model coefficients
+- Prediction
+- Model interpretation
+- Classification of observations
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=osmangonibu9)  
+## 🛠️ Software & Tools
 
+- **R**
+- **RStudio**
+- **R Markdown**
 
+## 🎯 Purpose
 
+The main purpose of this repository is to develop practical skills in **R programming, statistical analysis, correlation, and regression modelling**.
+
+These materials can be useful for students and researchers working with quantitative data and statistical modelling.
+
+## 📂 Repository Structure
+
+```text
+R_programming/
+│
+├── Class 03 - Basic Programming Concepts.R
+├── Correlation and Regression.Rmd
+├── logistic Regression.R
+└── README.md
